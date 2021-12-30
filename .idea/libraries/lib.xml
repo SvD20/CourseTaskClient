@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PATH_TO_FX$" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-annotations-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jackson-databind-2.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PATH_TO_FX$" recursive="false" />
+  </library>
+</component>
